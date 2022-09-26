@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @berkayxz
 - 👀 I’m interested in artificial intelligence and robotic coding
-- 🌱 I’m currently learning python and c and algorithm
+- 🌱 I’m currently learning python and C, C# language and algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me urkannberkay@gmail.com
 
